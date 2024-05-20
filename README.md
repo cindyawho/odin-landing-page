@@ -12,3 +12,22 @@
 4. Many of the elements on this page are very similar to things you saw in our flexbox exercises… feel free to go back to those if you need a refresher.
 5. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
 6. When you finish, don’t forget to push it up to GitHub!
+
+## Credits
+
+### Hero Section
+Picture: Photo by <a href="https://unsplash.com/@syinq?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Susan Q Yin</a> on <a href="https://unsplash.com/photos/books-on-brown-wooden-shelf-2JIvboGLeho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
+### Gallery
+
+Picture 1: Photo by <a href="https://unsplash.com/@heftiba?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Toa Heftiba</a> on <a href="https://unsplash.com/photos/brown-wooden-framed-candle-holder-on-top-of-books-ip9R11FMbV8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Picture 2: Photo by <a href="https://unsplash.com/@jaredd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jaredd Craig</a> on <a href="https://unsplash.com/photos/view-of-floating-open-book-from-stacked-books-in-library-HH4WBGNyltc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Picture 3: Photo by Pixabay: https://www.pexels.com/photo/books-in-black-wooden-book-shelf-159711/
+
+Picture 4: Photo by Rahul Pandit: https://www.pexels.com/photo/closeup-photography-of-book-page-folding-forming-heart-1083633/
+
+### Quote
+From the <a href="https://www.southernliving.com/reading-quotes-7481180">Reading Quotes</a> article.
