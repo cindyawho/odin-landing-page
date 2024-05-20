@@ -49,6 +49,7 @@ a{
 .hero-secondary{
     padding: 55px 75px 100px 75px;
     display: flex;
+    gap: 40px;
 }
 .hero-secondary-content{
     flex-basis: auto;
@@ -73,10 +74,6 @@ button {
     border-radius: 5px;
     padding: 5px 15px;
     color: var(--fc-hero-white);
-}
-
-.content {
-    
 }
 
 .gallery {
@@ -159,5 +156,7 @@ button {
 }
 
 .footer {
-
+    padding: 40px;
+    text-align: center;
+    color: var(--fc-hero-sec);
 }
