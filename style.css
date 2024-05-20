@@ -125,16 +125,27 @@ button {
 }
 
 .signUp-section{
-
+    display: flex;
+    padding: 50px 100px;
+    justify-content: center;
+    align-items: center;
 }
 .signUp-block {
-
+    background-color: var(--bg-blue-button);
+    border-radius: 5px;
+    padding: 20px 100px;
+    display: flex;
 }
 .signUp-title {
-
+    margin: 0;
+    padding: 0;
+    color: var(--fc-hero-white);
 }
 .signUp-description {
-
+    color: var(--fc-hero-sec);
+}
+.signUp-button button {
+    border: 1px var(--fc-hero-white) solid;
 }
 
 .footer {
