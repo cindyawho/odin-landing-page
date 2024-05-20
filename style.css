@@ -80,7 +80,29 @@ button {
 }
 
 .gallery {
-
+    justify-content: center;
+    text-align: center;
+    padding: 32px 0px;
+}
+.gallery-images{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 24px;
+}
+.gallery-item {
+    min-width: 150px;
+    max-width: 150px;
+}
+.gallery-item img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 2px solid var(--bg-blue-button);
+  border-radius: 5px;
+}
+.gallery-item a{
+    color: var(--bg-dark)
 }
 
 .quote-section {
