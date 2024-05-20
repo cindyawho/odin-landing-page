@@ -1,0 +1,61 @@
+:root {
+    --bg-dark: #1F2937;
+    --fc-hero-white: #f9faf8;
+    --fc-hero-sec: #E5E7EB;
+    --fc-logo: #F9FAF8;
+    --bg-blue-button: #3882F6;
+    --fc-content-header: #1F2937;
+    --bg-quote: #E5E7EB;
+    --fc-quote: #1F2937;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero, .footer {
+    background-color: var(--bg-dark);
+}
+
+.header {
+
+}
+.hero-secondary {
+
+}
+
+.content {
+    
+}
+
+.gallery {
+
+}
+
+.quote-section {
+
+}
+.quote {
+
+}
+.author {
+
+}
+
+.signUp-section{
+
+}
+.signUp-block {
+
+}
+.signUp-title {
+
+}
+.signUp-description {
+
+}
+
+.footer {
+
+}
