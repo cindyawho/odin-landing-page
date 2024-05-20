@@ -106,13 +106,22 @@ button {
 }
 
 .quote-section {
-
+    background-color: var(--bg-quote);
+    padding: 50px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .quote {
-
+    min-width: none;
+    max-width: 600px;
+    color: var(--fc-quote);
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
 }
 .author {
-
+    text-align: right;
 }
 
 .signUp-section{
