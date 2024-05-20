@@ -133,8 +133,13 @@ button {
 .signUp-block {
     background-color: var(--bg-blue-button);
     border-radius: 5px;
-    padding: 20px 100px;
+    padding:40px 100px;
     display: flex;
+    align-items: center;
+    width: 600px;
+    flex-grow: 1;
+    min-width: 300px;
+    max-width: 700px;
 }
 .signUp-title {
     margin: 0;
@@ -143,6 +148,11 @@ button {
 }
 .signUp-description {
     color: var(--fc-hero-sec);
+    margin: 0;
+    padding-top: 5px;
+}
+.signUp-button {
+    margin-left: auto;
 }
 .signUp-button button {
     border: 1px var(--fc-hero-white) solid;
