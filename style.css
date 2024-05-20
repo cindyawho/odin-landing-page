@@ -12,6 +12,13 @@
 body {
     display: flex;
     flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
 }
 
 .hero, .footer {
@@ -19,10 +26,23 @@ body {
 }
 
 .header {
-
+    display: flex;
+    align-items: center;
+    padding: 5px 75px;
 }
-.hero-secondary {
-
+.header-logo {
+    margin-right: auto;
+    color: var(--fc-logo);
+}
+.header-links {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+    color: var(--fc-hero-sec);
+}
+a{
+    text-decoration: none;
+    color: var(--fc-hero-sec);
 }
 
 .content {
